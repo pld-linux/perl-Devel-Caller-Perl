@@ -9,7 +9,7 @@ Summary:	Devel::Caller::Perl - allow method to get arguments passed to higher su
 Summary(pl):	Devel::Caller::Perl - umo¿liwienie metodzie pobranie argumentów z wy¿szych funkcji
 Name:		perl-Devel-Caller-Perl
 Version:	1.4
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
