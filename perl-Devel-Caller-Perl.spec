@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Devel
-%define	pnam	Caller-Perl
+%define		pdir	Devel
+%define		pnam	Caller-Perl
 Summary:	Devel::Caller::Perl - allow method to get arguments passed to higher subroutines
 Summary(pl):	Devel::Caller::Perl - umo¿liwienie metodzie pobranie argumentów z wy¿szych funkcji
 Name:		perl-Devel-Caller-Perl
