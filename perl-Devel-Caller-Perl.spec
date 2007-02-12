@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Caller-Perl
 Summary:	Devel::Caller::Perl - allow method to get arguments passed to higher subroutines
-Summary(pl):	Devel::Caller::Perl - umoøliwienie metodzie pobranie argumentÛw z wyøszych funkcji
+Summary(pl.UTF-8):   Devel::Caller::Perl - umo≈ºliwienie metodzie pobranie argument√≥w z wy≈ºszych funkcji
 Name:		perl-Devel-Caller-Perl
 Version:	1.4
 Release:	1
@@ -28,9 +28,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Devel::Caller::Perl Perl module allows a method to get arguments
 passed to subroutines higher up in the call stack.
 
-%description -l pl
-Modu≥ Perla Devel::Caller::Perl pozwala metodzie odczytaÊ argumenty
-przekazane do funkcji wyøej w stosie wywo≥aÒ.
+%description -l pl.UTF-8
+Modu≈Ç Perla Devel::Caller::Perl pozwala metodzie odczytaƒá argumenty
+przekazane do funkcji wy≈ºej w stosie wywo≈Ça≈Ñ.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
