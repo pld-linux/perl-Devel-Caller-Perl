@@ -4,7 +4,6 @@
 
 %define		pdir	Devel
 %define		pnam	Caller-Perl
-%include	/usr/lib/rpm/macros.perl
 Summary:	Devel::Caller::Perl - allow method to get arguments passed to higher subroutines
 Summary(pl.UTF-8):	Devel::Caller::Perl - umożliwienie metodzie pobranie argumentów z wyższych funkcji
 Name:		perl-Devel-Caller-Perl
